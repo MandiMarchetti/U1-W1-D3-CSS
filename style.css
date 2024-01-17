@@ -1,0 +1,40 @@
+.logo{
+    display: flex;
+    text-align: center;
+    width: 160px;
+    margin-left: 40%;
+}
+
+.titolo-head{
+    text-align: center;
+    font-family:'Cardo', serif;
+    font-size: 13px;
+    border: 5px;
+    color: #004D4C;
+    background-color: #FDFBF1;
+    line-height: 40px;
+}
+
+h2{
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
+    font: size 12px;;
+    margin-top: 40px;
+    color: #333333;
+}
+
+.pretext {
+    text-align:justify;
+    font-family:Arial, Helvetica, sans-serif;
+    color: #333333;
+    text-align: center;
+    }
+
+.div-focaccia{
+    display: flex;
+    text-align: center;
+    width: 300px;
+    margin-left: 20px;
+
+}
+
