@@ -1,40 +1,62 @@
-.logo{
-    display: flex;
+header{
+    display: block;
+    height: 140px;
     text-align: center;
-    width: 160px;
-    margin-left: 40%;
 }
 
-.titolo-head{
-    text-align: center;
-    font-family:'Cardo', serif;
-    font-size: 13px;
-    border: 5px;
-    color: #004D4C;
-    background-color: #FDFBF1;
+.altura{
+    height: 70px;
+    line-height: 90px;
+}
+
+.header-board{
+    display: block;
+    height: 40px;
     line-height: 40px;
+    justify-content: center;
+    background-color: #FDFBF1;
+    color: #004D4C;
+    font-size: 13px;
 }
 
-h2{
+.bloco{
+    color: white;
+    height: 1px;
+    display: block;
+    background-color:#FFD877;
+}
+
+.titolo{
+    font-size: 35px;
     text-align: center;
-    font-family: 'Rubik', sans-serif;
-    font: size 12px;;
-    margin-top: 40px;
     color: #333333;
+    font-family: 'Times New Roman', Times, serif;
+
 }
 
-.pretext {
-    text-align:justify;
-    font-family:Arial, Helvetica, sans-serif;
+.pretext{
     color: #333333;
-    text-align: center;
-    }
-
-.div-focaccia{
-    display: flex;
-    text-align: center;
-    width: 300px;
-    margin-left: 20px;
-
+    font-size: 16px;
 }
 
+
+.rodape{
+    text-align: center;
+    color: #999999;
+    font-size: 16px;
+    padding: 20px;
+}
+
+main{
+    margin-inline: auto;
+    width: 700px;   
+}
+
+
+
+
+
+footer{
+    margin-inline: auto;
+    width: 700px;
+}
