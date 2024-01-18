@@ -44,7 +44,7 @@ header{
     text-align: center;
     color: #999999;
     font-size: 16px;
-    padding: 20px;
+    padding: 5px;
 }
 
 main{
@@ -52,11 +52,41 @@ main{
     width: 700px;   
 }
 
+.margin{
+    margin-left: 2px;
+    padding-left: 14px;
+    border-left: 2px solid #FFD877;
+}
 
+.a{
+    height: 20px;
+    margin-bottom: -16px;
+    
 
+}
 
+.b{
+    height: 20px;
+    font-size: 17px;
+     
+
+}
 
 footer{
     margin-inline: auto;
     width: 700px;
+}
+
+.ingredients{
+    height: 45px;
+    font-size: 23px;
+    color: #333333;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    border-bottom: 2px solid #C4F3F2;
+    
+}
+
+li{
+    height: 35px;
 }
